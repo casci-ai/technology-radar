@@ -1,24 +1,9 @@
-{
-  "title": "Casci.ai Engineering Radar 2026",
-  "quadrants": [
-    "AI & Intelligence",
-    "Orchestration & Workflow",
-    "Infrastructure & Data",
-    "Techniques & Patterns"
-  ],
-  "rings": [
-    "adopt",
-    "trial",
-    "assess",
-    "hold"
-  ],
-  "blips": [
-    {
-      "name": "Camunda 8 (SaaS/Self-Managed)",
-      "ring": "adopt",
-      "quadrant": "Orchestration & Workflow",
-      "isNew": "false",
-      "description": "Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
-    }
-  ]
-}
+[
+  {
+    "name": "Camunda 8 (SaaS/Self-Managed)",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "false",
+    "description": "Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
+  }
+]
