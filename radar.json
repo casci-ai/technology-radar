@@ -1,18 +1,4 @@
-{
-  "title": "Casci.ai Engineering Radar 2026",
-  "quadrants": [
-    "AI & Intelligence",
-    "Orchestration & Workflow",
-    "Infrastructure & Data",
-    "Techniques & Patterns"
-  ],
-  "rings": [
-    "adopt",
-    "trial",
-    "assess",
-    "hold"
-  ],
-  "blips": [
+[
     {
       "name": "Camunda 8 (SaaS/Self-Managed)",
       "quadrant": "Orchestration & Workflow",
@@ -84,4 +70,3 @@
       "description": "Phasing out in favor of Camunda 8. No new projects should use embedded Spring Boot C7 architectures."
     }
   ]
-}
