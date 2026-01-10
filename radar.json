@@ -5,5 +5,12 @@
     "quadrant": "Platforms",
     "isNew": "false",
     "description": "Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
+  },
+  {
+    "name": "Embedded Camunda 7 Engines",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "false",
+    "description": "Phasing out in favor of Camunda 8. No new projects should use embedded Spring Boot C7 architectures."
   }
 ]
