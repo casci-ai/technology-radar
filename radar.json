@@ -15,9 +15,9 @@
   "blips": [
     {
       "name": "Camunda 8 (SaaS/Self-Managed)",
-      "quadrant": "Orchestration & Workflow",
       "ring": "adopt",
-      "isNew": false,
+      "quadrant": "Orchestration & Workflow",
+      "isNew": FALSE,
       "description": "Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
     }
   ]
