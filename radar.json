@@ -1,0 +1,87 @@
+{
+  "title": "Casci.ai Engineering Radar 2026",
+  "quadrants": [
+    "AI & Intelligence",
+    "Orchestration & Workflow",
+    "Infrastructure & Data",
+    "Techniques & Patterns"
+  ],
+  "rings": [
+    "adopt",
+    "trial",
+    "assess",
+    "hold"
+  ],
+  "blips": [
+    {
+      "name": "Camunda 8 (SaaS/Self-Managed)",
+      "quadrant": "Orchestration & Workflow",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
+    },
+    {
+      "name": "Model Context Protocol (MCP)",
+      "quadrant": "AI & Intelligence",
+      "ring": "trial",
+      "isNew": true,
+      "description": "Standardized protocol for connecting AI agents to local/remote data sources. Crucial for vendor-agnostic agent tooling."
+    },
+    {
+      "name": "LangGraph",
+      "quadrant": "AI & Intelligence",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "The preferred framework for building cyclic, stateful multi-agent systems. Replaces basic LangChain chains for complex logic."
+    },
+    {
+      "name": "NeMo Guardrails",
+      "quadrant": "Techniques & Patterns",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "Standard for enforcing safety and topicality in LLM interactions, ensuring 'Government-grade' security and reliability."
+    },
+    {
+      "name": "Human-in-the-Loop (HITL) BPMN Patterns",
+      "quadrant": "Techniques & Patterns",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "Using Camunda User Tasks to validate AI-generated outputs before final commitment to system-of-record."
+    },
+    {
+      "name": "CrewAI",
+      "quadrant": "AI & Intelligence",
+      "ring": "assess",
+      "isNew": true,
+      "description": "Evaluating for role-based autonomous agent orchestration where rigid BPMN might be too restrictive."
+    },
+    {
+      "name": "Pinecone Serverless",
+      "quadrant": "Infrastructure & Data",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "The default vector database for RAG implementations due to its low ops overhead and cost-scaling model."
+    },
+    {
+      "name": "PydanticAI",
+      "quadrant": "AI & Intelligence",
+      "ring": "trial",
+      "isNew": true,
+      "description": "Using Pydantic's type safety for LLM structured outputs. Improves developer experience and runtime reliability."
+    },
+    {
+      "name": "Temporal.io",
+      "quadrant": "Orchestration & Workflow",
+      "ring": "assess",
+      "isNew": false,
+      "description": "Assessing as an alternative to Camunda for developer-centric, code-first durable execution without BPMN overhead."
+    },
+    {
+      "name": "Embedded Camunda 7 Engines",
+      "quadrant": "Orchestration & Workflow",
+      "ring": "hold",
+      "isNew": false,
+      "description": "Phasing out in favor of Camunda 8. No new projects should use embedded Spring Boot C7 architectures."
+    }
+  ]
+}
