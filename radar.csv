@@ -1,0 +1,40 @@
+name,ring,quadrant,isNew,description
+Camunda 8 (SaaS/Self-Managed),Adopt,Platforms,false,Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs.
+Embedded Camunda 7 Engines,hold,Platforms,false,Phasing out in favor of Camunda 8. No new projects should use embedded Spring Boot C7 architectures.
+Kubernetes,Adopt,Platforms,false,"Kubernetes is the de facto standard for container orchestration, enabling automated deployment, scaling, and management of containerized applications."
+Docker,Adopt,Platforms,false,"Docker is a platform for developing, shipping, and running applications in containers, providing consistency across multiple development and release cycles."
+Istio,Trial,Platforms,false,"An open-source service mesh that provides a way to control how microservices share data with one another."
+Kafka,Adopt,Platforms,false,"A distributed event streaming platform capable of handling trillions of events a day."
+Node.js,Adopt,Platforms,false,Node.js is a lightweight web container that is a strong option for development of micro services and as a server to mobile and single-page web applications.
+Spring Boot,Adopt,Languages & Frameworks,false,Spring Boot allows easy setup of standalone Spring-based applications. It's ideal for pulling up new microservices and easy to deploy.
+Next.js,Adopt,Languages & Frameworks,false,"Next.js is an opinionated, zero-configuration framework that includes simplified routing, automatic compilation and bundling."
+Python3,Adopt,Languages & Frameworks,false,Python 3 introduced many useful features that are not backward compatible with Python 2.x.
+FastAPI,Adopt,Languages & Frameworks,false,"FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints."
+React,Adopt,Languages & Frameworks,false,"A JavaScript library for building user interfaces, maintained by Facebook and a community of developers."
+TypeScript,Adopt,Languages & Frameworks,false,"A superset of JavaScript that adds static typing, developed and maintained by Microsoft."
+Django,Adopt,Languages & Frameworks,false,"A high-level Python web framework that encourages rapid development and clean, pragmatic design."
+Flask,Adopt,Languages & Frameworks,false,"A lightweight WSGI web application framework in Python, known for its simplicity and flexibility."
+PostgreSQL,Adopt,Tools,false,"A powerful, open-source object-relational database system known for its reliability, feature robustness, and performance."
+Redis,Adopt,Tools,false,"An in-memory data structure store, used as a database, cache, and message broker, known for its high performance and versatility."
+Terraform,Adopt,Tools,false,An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
+Prometheus,Adopt,Tools,false,"An open-source systems monitoring and alerting toolkit originally built at SoundCloud, known for its powerful querying language and time-series data model."
+Grafana,Adopt,Tools,false,"An open-source platform for monitoring and observability, allowing users to query, visualize, alert on, and understand their metrics no matter where they are stored."
+GitHub Actions,Adopt,Tools,false,"A CI/CD platform that allows you to automate your build, test, and deployment pipeline right from GitHub."
+Jenkins,hold,Tools,false,"An open-source automation server that enables developers to build, test, and deploy their software."
+Ansible,Adopt,Tools,false,"An open-source automation tool for IT tasks such as configuration management, application deployment, and task automation."
+Grafana Loki,Trial,Tools,false,"A log aggregation system designed to store and query logs from all your applications and infrastructure."
+Kong Gateway,Trial,Tools,false,"An open-source API gateway and microservices management layer, delivering high performance and reliability."
+Helm,Adopt,Tools,false,"A package manager for Kubernetes that helps you manage Kubernetes applications."
+ElasticSearch,Adopt,Tools,false,"A distributed, RESTful search and analytics engine capable of addressing a growing number of use cases."
+Logstash,Adopt,Tools,false,"A server-side data processing pipeline that ingests data from multiple sources, transforms it, and then sends it to a 'stash' like Elasticsearch."
+Kibana,Adopt,Tools,false,"An open-source data visualization and exploration tool used for logs and time-series analytics."
+Fluentd,Trial,Tools,false,"An open-source data collector for unified logging layers, allowing you to collect logs from various sources and unify them in a single platform."
+OpenTelemetry,Trial,Tools,false,"An open-source observability framework for cloud-native software, providing APIs and SDKs for generating, collecting, and exporting telemetry data."
+Jaeger,Trial,Tools,false,"An open-source, end-to-end distributed tracing tool used for monitoring and troubleshooting microservices-based distributed systems."
+NewRelic,Adopt,Tools,false,"A cloud-based observability platform that provides real-time insights into application performance and infrastructure health."
+Datadog,Adopt,Tools,false,"A monitoring and analytics platform for developers, IT operations teams, and business users in the cloud age."
+GitLab CI/CD,Adopt,Tools,false,"A built-in continuous integration and continuous deployment tool that comes with GitLab, allowing you to build, test, and deploy your code."
+CircleCI,hold,Tools,false,"A continuous integration and continuous delivery platform that automates development workflows."
+Selenium,Adopt,Tools,false,"An open-source tool for automating web browsers, primarily used for testing web applications."
+Cypress,Adopt,Tools,false,"A front-end testing tool built for the modern web, enabling developers to write and run tests for web applications."
+Cucumber,Adopt,Tools,false,"A tool for running automated tests written in plain language, promoting collaboration between technical and non-technical team members."    
