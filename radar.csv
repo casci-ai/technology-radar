@@ -26,7 +26,6 @@ Grafana Loki,Trial,Tools,false,"A log aggregation system designed to store and q
 Helm,Adopt,Tools,false,"A package manager for Kubernetes that helps you manage Kubernetes applications."
 OpenTelemetry,Trial,Tools,false,"An open-source observability framework for cloud-native software, providing APIs and SDKs for generating, collecting, and exporting telemetry data."
 Jaeger,Trial,Tools,false,"An open-source, end-to-end distributed tracing tool used for monitoring and troubleshooting microservices-based distributed systems."
-GitLab CI/CD,Adopt,Tools,false,"A built-in continuous integration and continuous deployment tool that comes with GitLab, allowing you to build, test, and deploy your code."
 CircleCI,Trial,Tools,false,"A continuous integration and continuous delivery platform that automates development workflows."
 Selenium,Adopt,Tools,false,"An open-source tool for automating web browsers, primarily used for testing web applications."
 Cypress,Adopt,Tools,false,"A front-end testing tool built for the modern web, enabling developers to write and run tests for web applications."
