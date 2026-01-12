@@ -31,6 +31,7 @@ Selenium,Adopt,Tools,false,"An open-source tool for automating web browsers, pri
 Cypress,Adopt,Tools,false,"A front-end testing tool built for the modern web, enabling developers to write and run tests for web applications."
 Cucumber,Adopt,Tools,false,"A tool for running automated tests written in plain language, promoting collaboration between technical and non-technical team members."
 VsCode,Adopt,Tools,false,"A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux."
+IntelliJ IDEA,Hold,Tools,false,"A powerful IDE for JVM languages like Java, Kotlin, Groovy, and Scala, known for its intelligent code completion and developer productivity features."
 MsTeam,Adopt,Tools,false,"A collaboration platform that combines workplace chat, meetings, notes, and attachments."
 Slack,Adopt,Tools,false,"A messaging app for teams that brings all communication together, creating a single unified archive accessible through powerful search."
 Pre-commit hooks,Trial,Techniques,false,"A framework for managing and maintaining multi-language pre-commit hooks, ensuring code quality before commits are made."
