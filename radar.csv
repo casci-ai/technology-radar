@@ -7,6 +7,7 @@ Istio,Trial,Platforms,false,"An open-source service mesh that provides a way to 
 Kafka,Adopt,Platforms,false,"A distributed event streaming platform capable of handling trillions of events a day."
 Node.js,Adopt,Platforms,false,Node.js is a lightweight web container that is a strong option for development of micro services and as a server to mobile and single-page web applications.
 Plane project management tool,Assess,Platforms,true,"A modern project management tool designed for software development teams, focusing on simplicity and efficiency."
+GitHub
 Spring Boot,Adopt,Languages & Frameworks,false,Spring Boot allows easy setup of standalone Spring-based applications. It's ideal for pulling up new microservices and easy to deploy.
 Next.js,Adopt,Languages & Frameworks,false,"Next.js is an opinionated, zero-configuration framework that includes simplified routing, automatic compilation and bundling."
 Python3,Adopt,Languages & Frameworks,false,Python 3 introduced many useful features that are not backward compatible with Python 2.x.
@@ -15,6 +16,7 @@ React,Adopt,Languages & Frameworks,false,"A JavaScript library for building user
 TypeScript,Adopt,Languages & Frameworks,false,"A superset of JavaScript that adds static typing, developed and maintained by Microsoft."
 Django,Adopt,Languages & Frameworks,false,"A high-level Python web framework that encourages rapid development and clean, pragmatic design."
 Flask,Adopt,Languages & Frameworks,false,"A lightweight WSGI web application framework in Python, known for its simplicity and flexibility."
+SDKMAN,Adopt,Tools,false,"A tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.
 PostgreSQL,Adopt,Tools,false,"A powerful, open-source object-relational database system known for its reliability, feature robustness, and performance."
 Redis,Adopt,Tools,false,"An in-memory data structure store, used as a database, cache, and message broker, known for its high performance and versatility."
 Terraform,Adopt,Tools,false,An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
@@ -44,3 +46,11 @@ Test-Driven Development (TDD),Adopt,Techniques,false,"A software development app
 Behavior-Driven Development (BDD),Adopt,Techniques,false,"An extension of TDD that encourages collaboration between developers, QA, and non-technical stakeholders through shared examples and scenarios."
 Agile Methodologies,Adopt,Techniques,false,"A set of principles for software development that emphasizes iterative development, collaboration, and flexibility to change."
 Scrum,Adopt,Techniques,false,"An agile framework for managing complex projects, focusing on iterative progress, collaboration, and adaptability."
+Git Signed Commits,Adopt,Techniques,false,"A method of signing Git commits and tags to verify the authenticity and integrity of the code changes."
+BPMN for Process Modeling,Adopt,Techniques,false,"A graphical representation for specifying business processes in a business process model, widely used for process automation and improvement."
+Event-Driven Architecture,Adopt,Techniques,false,"A software architecture pattern that promotes the production, detection, consumption, and reaction to events, enabling real-time processing and responsiveness."
+Serverless Architecture,Trial,Techniques,false,"A cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers, allowing developers to focus on code without managing infrastructure."
+Zero Trust Security Model,Trial,Techniques,false,"A security concept that assumes no implicit trust is granted to assets or user accounts based solely on their physical or network location."
+DevSecOps,Trial,Techniques,false,"An approach that integrates security practices within the DevOps process, ensuring that security is a shared responsibility throughout the software development lifecycle."
+Chaos Engineering,Assess,Techniques,true,"The discipline of experimenting on a system to build confidence in its capability to withstand turbulent conditions in production."
+Site Reliability Engineering (SRE),Assess,Techniques,true,"A discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems, with the goal of creating scalable and highly reliable
