@@ -34,6 +34,7 @@ VsCode,Adopt,Tools,false,"A lightweight but powerful source code editor which ru
 IntelliJ IDEA,Hold,Tools,false,"A powerful IDE for JVM languages like Java, Kotlin, Groovy, and Scala, known for its intelligent code completion and developer productivity features."
 MsTeam,Adopt,Tools,false,"A collaboration platform that combines workplace chat, meetings, notes, and attachments."
 Slack,Adopt,Tools,false,"A messaging app for teams that brings all communication together, creating a single unified archive accessible through powerful search."
+iTerm2,Adopt,Tools,false,"A terminal emulator for macOS that offers features like split panes, hotkeys, and extensive customization options."
 Pre-commit hooks,Trial,Techniques,false,"A framework for managing and maintaining multi-language pre-commit hooks, ensuring code quality before commits are made."
 GitOps,Trial,Techniques,false,"A set of practices that use Git repositories as the source of truth for declarative infrastructure and applications."
 Infrastructure as Code (IaC),Adopt,Techniques,false,"The practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools."
