@@ -7,7 +7,7 @@ Istio,Trial,Platforms,false,"An open-source service mesh that provides a way to 
 Kafka,Adopt,Platforms,false,"A distributed event streaming platform capable of handling trillions of events a day."
 Node.js,Adopt,Platforms,false,Node.js is a lightweight web container that is a strong option for development of micro services and as a server to mobile and single-page web applications.
 Plane project management tool,Assess,Platforms,true,"A modern project management tool designed for software development teams, focusing on simplicity and efficiency."
-GitHub
+GitHub,Adopt,Platforms,false,"A web-based platform for version control and collaboration, allowing multiple developers to work on projects simultaneously."
 Spring Boot,Adopt,Languages & Frameworks,false,Spring Boot allows easy setup of standalone Spring-based applications. It's ideal for pulling up new microservices and easy to deploy.
 Next.js,Adopt,Languages & Frameworks,false,"Next.js is an opinionated, zero-configuration framework that includes simplified routing, automatic compilation and bundling."
 Python3,Adopt,Languages & Frameworks,false,Python 3 introduced many useful features that are not backward compatible with Python 2.x.
@@ -37,6 +37,7 @@ IntelliJ IDEA,Hold,Tools,false,"A powerful IDE for JVM languages like Java, Kotl
 MsTeam,Adopt,Tools,false,"A collaboration platform that combines workplace chat, meetings, notes, and attachments."
 Slack,Adopt,Tools,false,"A messaging app for teams that brings all communication together, creating a single unified archive accessible through powerful search."
 iTerm2,Adopt,Tools,false,"A terminal emulator for macOS that offers features like split panes, hotkeys, and extensive customization options."
+Draw.io,Adopt,Tools,false,"A web-based diagramming tool that allows users to create flowcharts, process diagrams, and other visual representations."
 Pre-commit hooks,Trial,Techniques,false,"A framework for managing and maintaining multi-language pre-commit hooks, ensuring code quality before commits are made."
 GitOps,Trial,Techniques,false,"A set of practices that use Git repositories as the source of truth for declarative infrastructure and applications."
 Infrastructure as Code (IaC),Adopt,Techniques,false,"The practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools."
