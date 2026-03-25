@@ -59,6 +59,7 @@ MsTeam,Adopt,Tools,false,"A collaboration platform that combines workplace chat,
 Slack,Adopt,Tools,false,"A messaging app for teams that brings all communication together, creating a single unified archive accessible through powerful search."
 iTerm2,Adopt,Tools,false,"A terminal emulator for macOS that offers features like split panes, hotkeys, and extensive customization options."
 Draw.io,Adopt,Tools,false,"A web-based diagramming tool that allows users to create flowcharts, process diagrams, and other visual representations."
+Mermaid,Adopt,Tools,false,"A JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically."
 Pre-commit hooks,Trial,Techniques,true,"A framework for managing and maintaining multi-language pre-commit hooks, ensuring code quality before commits are made."
 GitOps,Trial,Techniques,true,"A set of practices that use Git repositories as the source of truth for declarative infrastructure and applications."
 Argo CD,Trial,Tools,true,"A declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment of applications and infrastructure."
