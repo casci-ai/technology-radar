@@ -1,6 +1,7 @@
 name,ring,quadrant,isNew,description
 Camunda 8 (SaaS/Self-Managed),Adopt,Platforms,false,"Our primary engine for high-throughput process orchestration. Essential for state management in complex AI agent handoffs."
 Embedded Camunda 7 Engines,Hold,Platforms,false,"Phasing out in favor of Camunda 8. No new projects should use embedded Spring Boot C7 architectures."
+ZenBPM,Assess,Platforms,true,"A modern BPMN engine designed for cloud-native applications, offering a lightweight and scalable solution for process automation."
 Kubernetes,Adopt,Platforms,false,"Kubernetes is the de facto standard for container orchestration, enabling automated deployment, scaling, and management of containerized applications."
 EKS,Adopt,Platforms,false,"Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service that simplifies the process of running Kubernetes on AWS without needing to install and operate your own Kubernetes control plane."
 GKE,Adopt,Platforms,false,"Google Kubernetes Engine (GKE) is a managed Kubernetes service that provides a scalable and secure environment for deploying, managing, and scaling containerized applications using Google Cloud's infrastructure."
