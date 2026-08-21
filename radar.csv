@@ -83,3 +83,4 @@ Static Documentation Site Generators,Assess,Tools,true,"Tools that convert markd
 Mise,Assess,Tools,true,"A polyglot developer environment manager that consolidates tool installation, version pinning, environment variables, and task automation into a single mise.toml configuration file."
 Conventional Commits,Assess,Techniques,true,"A standardized lightweight convention for commit messages that asks developers to describe features, fixes, and breaking changes in a structured format, enabling automated changelog generation and semantic versioning."
 Git Cliff,Assess,Tools,true,"A highly customizable changelog generator that parses git history using Conventional Commit specifications, with templatable output configured via a simple TOML file."
+Pre-commit,Assess,Tools,true,"A framework for managing and maintaining multi-language pre-commit hooks. Git hook scripts run automatically on every commit to catch simple issues."
